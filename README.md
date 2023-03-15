@@ -3,6 +3,7 @@ ikiamR: a demo package
 
 This is a demo package from R4DS tutorial.
 
+Any suggestion do not hesitate to contact at gualapuro.moises@gmail.com
 
 Installation and loading
 ------------------------
